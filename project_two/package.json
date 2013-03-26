@@ -1,0 +1,11 @@
+{
+  "name": "project_two",
+  "version": "0.0.0",
+  "description": "our test project",
+  "preferGlobal": "true",
+  "bin": {
+    "project_two": "app.js"
+  },
+  "author": "Jack Franklin",
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "project_three",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "main.js",
+  "preferGlobal": "true",
+  "bin": {
+    "markdownlinker": "bin/markdownlinker.js"
+  }
+}
